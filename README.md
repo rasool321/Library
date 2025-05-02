@@ -28,7 +28,7 @@ This app is powered by a clean combination of technologies:
 
 You can explore the live app by following this link:
 
-🔗 [**Live Demo on GitHub Pages**](https://rasool321.github.io/Library/)
+🔗 [**Live Demo**](https://rasool321.github.io/Library/)
 
 ---
 
