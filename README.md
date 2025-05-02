@@ -1,11 +1,11 @@
-# 📚 Book Manager Web App
+# Book Manager Web App
 
 Welcome to the **Book Manager** Web App!
 This is a straightforward app designed to help you manage your books effortlessly. Whether you want to add a new book, remove one you’ve already finished, or just look at your collection, this app is here to make it easier for you. Built with **HTML**, **CSS**, and **JavaScript**, it provides a smooth and interactive experience.
 
 ---
 
-## 🚀 Features
+##  Features
 
 * **Add books**: Input the book’s title, author, and genre, and keep your collection organized.
 * **View books**: The app will display your added books neatly in card format, each showing relevant details.
@@ -15,7 +15,7 @@ This is a straightforward app designed to help you manage your books effortlessl
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 This app is powered by a clean combination of technologies:
 
@@ -24,7 +24,7 @@ This app is powered by a clean combination of technologies:
 * **JavaScript**: Powers all interactive elements like adding, viewing, and removing books.
 
 ---
-## 🌐 Live Preview
+##  Live Preview
 
 You can explore the live app by following this link:
 
@@ -32,7 +32,7 @@ You can explore the live app by following this link:
 
 ---
 
-## 🧪 How to Use
+## How to Use
 
 Using the app is super simple. Just follow these steps:
 
@@ -44,7 +44,7 @@ That’s it! No complicated installations or setups. The app is ready for you to
 
 ---
 
-## 👨‍💻 Created By
+## Created By
 
 This app was created by **Rasool**, a passionate developer who believes in keeping things simple, clean, and functional.
 *"Just another coder building cool projects to make life a little easier."*
